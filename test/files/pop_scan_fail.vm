@@ -1,0 +1,6 @@
+pop constant 1
+pop
+pop static 10 1
+pop static -10
+pop pointer 2
+pop temp 8

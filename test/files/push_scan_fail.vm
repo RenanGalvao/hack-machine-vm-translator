@@ -1,0 +1,6 @@
+push
+push static 10 1
+push static -10
+push constant 32768
+push pointer 2
+push temp 8

@@ -1,0 +1,16 @@
+push argument 0
+push local 0
+push this 0
+push that 0
+push static 0
+push constant 0
+push pointer 0
+push pointer 1
+push temp 0
+push temp 1
+push temp 2
+push temp 3
+push temp 4
+push temp 5
+push temp 6
+push temp 7
